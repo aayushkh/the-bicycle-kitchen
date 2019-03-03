@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Workshop_Tooltip">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Workshop_Tooltip" data-name="Workshop Tooltip" clip-path="url(#clip-Workshop_Tooltip)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-353.181 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="209.688" height="156.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208.688" height="155.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(534.153 267.997)">
+        <text id="Bibendum" transform="translate(0 92)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Bibendum</tspan></text>
+        <text id="Ipsum" transform="translate(0 53)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Ipsum</tspan></text>
+        <text id="Arcu_" data-name="Arcu " transform="translate(0 131)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Arcu </tspan></text>
+        <text id="Lorem" transform="translate(0 14)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Lorem</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
