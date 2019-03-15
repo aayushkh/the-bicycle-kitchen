@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Workshop_Tooltip_Sort">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Workshop_Tooltip_Sort" data-name="Workshop Tooltip – Sort" clip-path="url(#clip-Workshop_Tooltip_Sort)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-353.181 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="209.688" height="120.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208.688" height="119.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(534.153 267.997)">
+        <text id="Closest_distance" data-name="Closest distance" transform="translate(-19 92)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Closest distance</tspan></text>
+        <text id="Random" transform="translate(5 54)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Random</tspan></text>
+        <text id="Most_recent_date" data-name="Most recent date" transform="translate(35 14)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-57.678" y="0">Most recent date</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

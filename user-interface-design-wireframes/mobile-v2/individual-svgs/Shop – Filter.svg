@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Shop_Filter">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Shop_Filter" data-name="Shop – Filter" clip-path="url(#clip-Shop_Filter)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-353.181 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="209.688" height="150.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208.688" height="149.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(534.153 267.997)">
+        <text id="Random" transform="translate(7 124)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Random</tspan></text>
+        <text id="Popularity" transform="translate(2 52)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Popularity</tspan></text>
+        <text id="Price" transform="translate(35 16)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-16.799" y="0">Price</tspan></text>
+        <text id="Most_Recent" data-name="Most Recent" transform="translate(-6 88)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Most Recent</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

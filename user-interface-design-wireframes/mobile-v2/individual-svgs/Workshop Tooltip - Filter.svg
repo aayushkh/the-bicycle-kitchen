@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Workshop_Tooltip_-_Filter">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Workshop_Tooltip_-_Filter" data-name="Workshop Tooltip - Filter" clip-path="url(#clip-Workshop_Tooltip_-_Filter)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-353.181 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="209.688" height="156.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208.688" height="155.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(534.153 267.997)">
+        <text id="Bike_safety_workshops" data-name="Bike safety workshops" transform="translate(-33 92)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Bike safety workshops</tspan></text>
+        <text id="General_workshops" data-name="General workshops" transform="translate(-24 53)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">General workshops</tspan></text>
+        <text id="Fix-a-flat_workshops" data-name="Fix-a-flat workshops" transform="translate(-25 131)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Fix-a-flat workshops</tspan></text>
+        <text id="Summer_workshops" data-name="Summer workshops" transform="translate(42 14)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-65.519" y="0">Summer workshops</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

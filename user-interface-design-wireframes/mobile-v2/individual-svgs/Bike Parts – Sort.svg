@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Bike_Parts_Sort">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Bike_Parts_Sort" data-name="Bike Parts – Sort" clip-path="url(#clip-Bike_Parts_Sort)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-369.963 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="246.681" height="148.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245.681" height="147.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(510.438 274.997)">
+        <text id="Size-_smallest_to_largest" data-name="Size- smallest to largest" transform="translate(6 84)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Size- smallest to largest</tspan></text>
+        <text id="Random" transform="translate(57.366 119)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Random</tspan></text>
+        <text id="Most_recent_date_added" data-name="Most recent date added" transform="translate(83 14)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-82.602" y="0">Most recent date added</tspan></text>
+        <text id="Age_-_smallest_to_largest" data-name="Age - smallest to largest" transform="translate(3 49)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Age - smallest to largest</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

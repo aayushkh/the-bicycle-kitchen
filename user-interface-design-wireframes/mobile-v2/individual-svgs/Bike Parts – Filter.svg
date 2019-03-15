@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="251" viewBox="0 0 375 251">
+  <defs>
+    <clipPath id="clip-Bike_Parts_Filter">
+      <rect width="375" height="251"/>
+    </clipPath>
+  </defs>
+  <g id="Bike_Parts_Filter" data-name="Bike Parts – Filter" clip-path="url(#clip-Bike_Parts_Filter)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(-371.411 -210)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(470 257)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="246.68" height="196.298" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245.68" height="195.298" rx="3.5" fill="none"/>
+      </g>
+      <g id="Required_Field-2" data-name="Required Field" transform="translate(533.347 269.997)">
+        <text id="Size" transform="translate(43 90)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Size</tspan></text>
+        <text id="Fit" transform="translate(47 50)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Fit</tspan></text>
+        <text id="Bike_Component" data-name="Bike Component" transform="translate(60 14)" fill="#222" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-56.841" y="0">Bike Component</tspan></text>
+        <text id="Age" transform="translate(42 130)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Age</tspan></text>
+        <text id="Suitable_donation" data-name="Suitable donation" transform="translate(0 167)" fill="#444" font-size="14" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Suitable donation</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

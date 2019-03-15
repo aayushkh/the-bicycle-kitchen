@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="1908" viewBox="0 0 375 1908">
+  <defs>
+    <filter id="Path_39" x="-9" y="214" width="393" height="80.436" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_39-2" x="-9" y="304" width="393" height="80.436" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_39-3" x="-9" y="382" width="393" height="80.436" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Base" x="-9" y="48" width="393" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bar" x="-9" y="-6" width="393" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_7.1.1_Checkout">
+      <rect width="375" height="1908"/>
+    </clipPath>
+  </defs>
+  <g id="_7.1.1_Checkout" data-name="7.1.1 Checkout" clip-path="url(#clip-_7.1.1_Checkout)">
+    <rect width="375" height="1908" fill="#fff"/>
+    <text id="_The_Bicycle_Kitchen" data-name="©  The Bicycle Kitchen" transform="translate(284 1874)" fill="#222" font-size="18" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-192.946" y="0" xml:space="preserve">©  The Bicycle Kitchen</tspan></text>
+    <g id="Hero_Header" data-name="Hero Header" transform="translate(-16 112)">
+      <text id="Checkout" transform="translate(44 62)" fill="#ff5300" font-size="48" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Checkout</tspan></text>
+    </g>
+    <g id="Two_Column_Card" data-name="Two Column Card" transform="translate(-652 -363)">
+      <g id="Post_Thumbnails" data-name="Post Thumbnails" transform="translate(652 583)">
+        <g id="Group_41" data-name="Group 41" transform="translate(0)">
+          <g id="Group_42" data-name="Group 42">
+            <g transform="matrix(1, 0, 0, 1, 0, -220)" filter="url(#Path_39)">
+              <g id="Path_39-4" data-name="Path 39" transform="translate(0 220)" fill="#fff">
+                <path d="M 374.5 61.93557357788086 L 0.5 61.93557357788086 L 0.5 0.5000234246253967 L 374.5 0.5000234246253967 L 374.5 61.93557357788086 Z" stroke="none"/>
+                <path d="M 1 0.9999732971191406 L 1 61.43552398681641 L 374 61.43552398681641 L 374 0.9999732971191406 L 1 0.9999732971191406 M 0 -2.6702880859375e-05 L 375 -2.6702880859375e-05 L 375 62.43552398681641 L 0 62.43552398681641 L 0 -2.6702880859375e-05 Z" stroke="none" fill="#ddd"/>
+              </g>
+            </g>
+            <text id="Item_Name" data-name="Item Name" transform="translate(16 16.94)" fill="#444" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="20">Item Name</tspan></text>
+            <g id="Group_37" data-name="Group 37" transform="translate(188 23.291)">
+              <g id="Group_36" data-name="Group 36" transform="translate(96.395 -7)">
+                <text id="Price" transform="translate(0 18)" fill="#444" font-size="18" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Price</tspan></text>
+              </g>
+              <g id="Group_35" data-name="Group 35" transform="translate(12 -7)">
+                <text id="Size" transform="translate(0 18)" fill="#444" font-size="18" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Size</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Post_Thumbnails-2" data-name="Post Thumbnails" transform="translate(0 310)">
+      <g id="Group_41-2" data-name="Group 41" transform="translate(0)">
+        <g id="Group_42-2" data-name="Group 42">
+          <g transform="matrix(1, 0, 0, 1, 0, -310)" filter="url(#Path_39-2)">
+            <g id="Path_39-5" data-name="Path 39" transform="translate(0 310)" fill="#fff">
+              <path d="M 374.5 61.93557357788086 L 0.5 61.93557357788086 L 0.5 0.5000234246253967 L 374.5 0.5000234246253967 L 374.5 61.93557357788086 Z" stroke="none"/>
+              <path d="M 1 0.9999732971191406 L 1 61.43552398681641 L 374 61.43552398681641 L 374 0.9999732971191406 L 1 0.9999732971191406 M 0 -2.6702880859375e-05 L 375 -2.6702880859375e-05 L 375 62.43552398681641 L 0 62.43552398681641 L 0 -2.6702880859375e-05 Z" stroke="none" fill="#ddd"/>
+            </g>
+          </g>
+          <text id="I_love_LA_shirt" data-name="I love LA shirt" transform="translate(15 20.94)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">I love LA shirt</tspan></text>
+          <g id="Group_37-2" data-name="Group 37" transform="translate(188 24.291)">
+            <g id="Group_36-2" data-name="Group 36" transform="translate(98.395 -4)">
+              <text id="_15.99" data-name="$15.99" transform="translate(-1 18)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">$15.99</tspan></text>
+            </g>
+            <g id="Group_35-2" data-name="Group 35" transform="translate(11 1)">
+              <text id="M" transform="translate(10 13)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">M</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4021" data-name="Group 4021" transform="translate(0 78)">
+        <g id="Group_42-3" data-name="Group 42">
+          <g transform="matrix(1, 0, 0, 1, 0, -388)" filter="url(#Path_39-3)">
+            <g id="Path_39-6" data-name="Path 39" transform="translate(0 388)" fill="#fff">
+              <path d="M 374.5 61.93557357788086 L 0.5 61.93557357788086 L 0.5 0.5000234246253967 L 374.5 0.5000234246253967 L 374.5 61.93557357788086 Z" stroke="none"/>
+              <path d="M 1 0.9999732971191406 L 1 61.43552398681641 L 374 61.43552398681641 L 374 0.9999732971191406 L 1 0.9999732971191406 M 0 -2.6702880859375e-05 L 375 -2.6702880859375e-05 L 375 62.43552398681641 L 0 62.43552398681641 L 0 -2.6702880859375e-05 Z" stroke="none" fill="#ddd"/>
+            </g>
+          </g>
+          <text id="Bicycle_Kitchen_shirt" data-name="Bicycle Kitchen shirt" transform="translate(15 20.94)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Bicycle Kitchen shirt</tspan></text>
+          <g id="Group_37-3" data-name="Group 37" transform="translate(188 24.291)">
+            <g id="Group_36-3" data-name="Group 36" transform="translate(98.395 -4)">
+              <text id="_19.99" data-name="$19.99" transform="translate(-1 18)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">$19.99</tspan></text>
+            </g>
+            <g id="Group_35-3" data-name="Group 35" transform="translate(11 1)">
+              <text id="M-2" data-name="M" transform="translate(10 13)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">M</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Total" transform="translate(209 484.939)" fill="#444" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="20">Total</tspan></text>
+    <text id="_35.98" data-name="$35.98" transform="translate(284 484.939)" fill="#444" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="20">$35.98</tspan></text>
+    <g id="Next" transform="translate(-789 1167)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(880 544)" fill="none" stroke="#222" stroke-width="2">
+        <rect width="192.926" height="44.178" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="190.926" height="42.178" rx="3" fill="none"/>
+      </g>
+      <text id="Pay" transform="translate(975 570.79)" fill="#ff5300" font-size="15" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-13.502" y="0">Pay</tspan></text>
+    </g>
+    <g id="Group_4011" data-name="Group 4011" transform="translate(0 -134)">
+      <g id="Billing_and_Card_Info" data-name="Billing and Card Info" transform="translate(-318 554)">
+        <text id="Billing_Info" data-name="Billing Info" transform="translate(343 411)" fill="#222" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Billing Info</tspan></text>
+        <g id="Input">
+          <g id="Rectangle_726" data-name="Rectangle 726" transform="translate(343 464)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="FULL_NAME" data-name="FULL NAME" transform="translate(343 454)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">FULL NAME</tspan></text>
+          <text id="John_Doe" data-name="John Doe" transform="translate(359 494)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">John Doe</tspan></text>
+        </g>
+        <g id="Input-2" data-name="Input">
+          <g id="Rectangle_727" data-name="Rectangle 727" transform="translate(343 551)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="ADDRESS" transform="translate(343 541)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">ADDRESS</tspan></text>
+          <text id="_497_Evergreen_Rd." data-name="497 Evergreen Rd." transform="translate(359 581)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">497 Evergreen Rd.</tspan></text>
+        </g>
+        <g id="Input-3" data-name="Input">
+          <g id="Rectangle_729" data-name="Rectangle 729" transform="translate(343 638)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="160" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="159" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="CITY" transform="translate(343 628)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">CITY</tspan></text>
+          <text id="Roseville" transform="translate(359 668)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">Roseville</tspan></text>
+        </g>
+        <g id="Input-4" data-name="Input">
+          <g id="Rectangle_730" data-name="Rectangle 730" transform="translate(511 638)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="159" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="158" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="ZIP_CODE" data-name="ZIP CODE" transform="translate(511 628)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">ZIP CODE</tspan></text>
+          <text id="_95673" data-name="95673" transform="translate(527 668)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">95673</tspan></text>
+        </g>
+        <g id="Input-5" data-name="Input">
+          <g id="Rectangle_731" data-name="Rectangle 731" transform="translate(343 725)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="COUNTRY" transform="translate(343 715)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">COUNTRY</tspan></text>
+          <text id="United_States" data-name="United States" transform="translate(359 755)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">United States</tspan></text>
+          <g id="Symbol_156_3" data-name="Symbol 156 – 3" transform="translate(-39 44)">
+            <path id="Path_36" data-name="Path 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(681 700)" fill="#2699fb"/>
+          </g>
+        </g>
+        <text id="Credit_Card_Info" data-name="Credit Card Info" transform="translate(341 852)" fill="#222" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Credit Card Info</tspan></text>
+        <g id="Input-6" data-name="Input" transform="translate(-429 441)">
+          <g id="Rectangle_717" data-name="Rectangle 717" transform="translate(770 464)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="219" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="218" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="CARD_NUMBER" data-name="CARD NUMBER" transform="translate(770 454)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">CARD NUMBER</tspan></text>
+          <text id="_1234_5678_3456_2456" data-name="1234   5678   3456   2456" transform="translate(786 494)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0" xml:space="preserve">1234   5678   3456   2456</tspan></text>
+        </g>
+        <g id="Input-7" data-name="Input" transform="translate(-429 441)">
+          <g id="Rectangle_718" data-name="Rectangle 718" transform="translate(770 551)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="CARDHOLDER_NAME" data-name="CARDHOLDER NAME" transform="translate(770 541)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">CARDHOLDER NAME</tspan></text>
+          <text id="John_Doe-2" data-name="John Doe" transform="translate(786 581)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">John Doe</tspan></text>
+        </g>
+        <g id="Input-8" data-name="Input" transform="translate(-429 441)">
+          <g id="Rectangle_720" data-name="Rectangle 720" transform="translate(770 725)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="160" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="159" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="CVV" transform="translate(770 715)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">CVV</tspan></text>
+          <text id="_123" data-name="123" transform="translate(786 755)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">123</tspan></text>
+        </g>
+        <g id="Input-9" data-name="Input" transform="translate(-429 441)">
+          <g id="Rectangle_719" data-name="Rectangle 719" transform="translate(770 638)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="EXPIRE_DATE" data-name="EXPIRE DATE" transform="translate(770 628)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">EXPIRE DATE</tspan></text>
+          <text id="_05_21" data-name="05   /   21" transform="translate(786 668)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0" xml:space="preserve">05   /   21</tspan></text>
+          <g id="Symbol_156_4" data-name="Symbol 156 – 4" transform="translate(388 -43)">
+            <path id="Path_36-2" data-name="Path 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(681 700)" fill="#2699fb"/>
+          </g>
+        </g>
+        <g id="Input-10" data-name="Input" transform="translate(-429 441)">
+          <g id="Rectangle_721" data-name="Rectangle 721" transform="translate(997 464)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="100" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="99" height="47" rx="3.5" fill="none"/>
+          </g>
+          <g id="Group_323" data-name="Group 323" transform="translate(-134 118)">
+            <path id="Path_229" data-name="Path 229" d="M61.9,19.3,65.037.9h5.006L66.906,19.3Z" transform="translate(1109.92 360.417)" fill="#222"/>
+            <path id="Path_230" data-name="Path 230" d="M100.052.776A12.482,12.482,0,0,0,95.575,0c-4.97,0-8.46,2.5-8.46,6.063-.035,2.644,2.5,4.124,4.406,5.006,1.939.917,2.609,1.481,2.609,2.291,0,1.234-1.551,1.8-3,1.8a10.782,10.782,0,0,1-4.724-.952l-.7-.317L85,18.013A15.84,15.84,0,0,0,90.6,19c5.288,0,8.707-2.468,8.742-6.275.035-2.08-1.3-3.7-4.195-5.006-1.763-.846-2.82-1.41-2.82-2.291,0-.776.917-1.586,2.855-1.586a8.681,8.681,0,0,1,3.737.705l.458.212.67-3.983" transform="translate(1094.963 361)" fill="#222"/>
+            <path id="Path_231" data-name="Path 231" d="M138.559,1h-3.878a2.512,2.512,0,0,0-2.644,1.516L124.6,19.365h5.252s.846-2.256,1.057-2.75h6.416c.141.635.6,2.75.6,2.75h4.653L138.559,1M132.39,12.844C132.813,11.787,134.4,7.7,134.4,7.7c-.035.035.423-1.058.67-1.763l.352,1.586s.952,4.406,1.163,5.323Z" transform="translate(1069.322 360.353)" fill="#222"/>
+            <path id="Path_232" data-name="Path 232" d="M27.273.9,22.338,13.449l-.529-2.538A14.226,14.226,0,0,0,14.9,3.191L19.377,19.3H24.7L32.6.9H27.273" transform="translate(1140.352 360.417)" fill="#222"/>
+            <path id="Path_233" data-name="Path 233" d="M8.143.9H.071L0,1.288C6.31,2.8,10.469,6.5,12.2,10.911l-1.763-8.46A2.121,2.121,0,0,0,8.143.9" transform="translate(1150 360.417)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4010" data-name="Group 4010" transform="translate(1 26)">
+        <text id="Shipping_Details" data-name="Shipping Details" transform="translate(23 672)" fill="#222" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Shipping Details</tspan></text>
+        <g id="Input-11" data-name="Input" transform="translate(-319 268)">
+          <g id="Rectangle_727-2" data-name="Rectangle 727" transform="translate(343 551)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="ADDRESS-2" data-name="ADDRESS" transform="translate(343 541)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">ADDRESS</tspan></text>
+          <text id="_497_Evergreen_Rd.-2" data-name="497 Evergreen Rd." transform="translate(359 581)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">497 Evergreen Rd.</tspan></text>
+        </g>
+        <g id="Input-12" data-name="Input" transform="translate(-320 267)">
+          <g id="Rectangle_726-2" data-name="Rectangle 726" transform="translate(343 464)" fill="#fff" stroke="#999" stroke-width="1">
+            <rect width="327" height="48" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="326" height="47" rx="3.5" fill="none"/>
+          </g>
+          <text id="FULL_NAME-2" data-name="FULL NAME" transform="translate(343 454)" fill="#222" font-size="10" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">FULL NAME</tspan></text>
+          <text id="John_Doe-3" data-name="John Doe" transform="translate(359 494)" fill="#222" font-size="14" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">John Doe</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Navigation_Bar" data-name="Navigation Bar" transform="translate(0 54)">
+      <g transform="matrix(1, 0, 0, 1, 0, -54)" filter="url(#Base)">
+        <rect id="Base-2" data-name="Base" width="375" height="60" transform="translate(0 54)" fill="#45145a"/>
+      </g>
+      <g id="Logo" transform="translate(14 -5)">
+        <text id="THE_BICYCLE_KITCHEN" data-name="THE BICYCLE KITCHEN" transform="translate(65 43.979)" fill="#fff" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">THE BICYCLE KITCHEN</tspan></text>
+        <image id="logo-2" data-name="logo" width="50" height="50" transform="translate(6 10)" xlink:href="data:image/png;base64,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"/>
+      </g>
+      <path id="Hamburger" d="M285-40v-2h8v2Zm0-6v-2h16v2Zm0-6v-2h16v2Z" transform="translate(45 77)" fill="#fff"/>
+    </g>
+    <g id="Chrome">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bar)">
+        <path id="bar-2" data-name="bar" d="M4,0H371a4,4,0,0,1,4,4V54a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="#fff"/>
+      </g>
+      <g id="ChromeLayout" transform="translate(-230.886 -83)">
+        <rect id="BG" width="317.955" height="38" rx="19" transform="translate(244.105 91.034)" fill="#f1f3f4"/>
+        <g id="More" transform="translate(-1473.644 -116.224)">
+          <path id="path" d="M6.8,9.593A2.8,2.8,0,1,0,4,6.8a2.8,2.8,0,0,0,2.8,2.8Zm0,2.8a2.8,2.8,0,1,0,2.8,2.8,2.8,2.8,0,0,0-2.8-2.8Zm0,8.389a2.8,2.8,0,1,0,2.8,2.8,2.8,2.8,0,0,0-2.8-2.8Z" transform="translate(2050.76 211.107)" fill-rule="evenodd" opacity="0.54"/>
+        </g>
+        <text id="https:_www.bicyclekitchen.com_wor" data-name="https://www.bicyclekitchen.com/wor" transform="translate(289.475 114.942)" fill="#767e81" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">https://</tspan><tspan y="0" fill="#3c4041" font-family="Roboto-Medium, Roboto" font-weight="500">www.bicyclekitchen.com</tspan><tspan y="0" fill="#888" font-family="Roboto-Medium, Roboto" font-weight="500">/wor</tspan></text>
+        <path id="lock_24px" d="M14.72,6.36h-.766V4.829a3.829,3.829,0,1,0-7.657,0V6.36H5.531A1.536,1.536,0,0,0,4,7.891v7.657A1.536,1.536,0,0,0,5.531,17.08H14.72a1.536,1.536,0,0,0,1.531-1.531V7.891A1.536,1.536,0,0,0,14.72,6.36Zm-2.221,0H7.752V4.829a2.374,2.374,0,1,1,4.747,0Z" transform="translate(259.957 99.316)" fill="#767e81"/>
+      </g>
+    </g>
+  </g>
+</svg>
