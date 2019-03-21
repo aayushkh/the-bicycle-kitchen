@@ -32,10 +32,7 @@
     <rect width="375" height="810" fill="#888"/>
     <g id="Navigation_Bar" data-name="Navigation Bar" transform="translate(0 54)">
       <g transform="matrix(1, 0, 0, 1, 0, -54)" filter="url(#Base)">
-        <g id="Base-2" data-name="Base" transform="translate(0 54)" fill="#45145a" stroke="#95989a" stroke-linejoin="round" stroke-width="1">
-          <rect width="375" height="60" stroke="none"/>
-          <rect x="0.5" y="0.5" width="374" height="59" fill="none"/>
-        </g>
+        <rect id="Base-2" data-name="Base" width="375" height="60" transform="translate(0 54)" fill="#45145a"/>
       </g>
       <g id="Logo" transform="translate(14 -5)">
         <text id="THE_BICYCLE_KITCHEN" data-name="THE BICYCLE KITCHEN" transform="translate(65 43.979)" fill="#fff" font-size="20" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">THE BICYCLE KITCHEN</tspan></text>

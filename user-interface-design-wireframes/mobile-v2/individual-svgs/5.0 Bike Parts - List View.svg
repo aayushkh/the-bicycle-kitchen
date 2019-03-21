@@ -8,7 +8,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
     <clipPath id="clip-path">
-      <rect width="393" height="1772.436" fill="none"/>
+      <rect width="393" height="1655.436" fill="none"/>
     </clipPath>
     <filter id="Path_39-2" x="-9" y="444" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
@@ -24,126 +24,126 @@
       <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-4" x="-9" y="622" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-4" x="-9" y="609" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-4"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-5" x="-9" y="704" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-5" x="-9" y="691" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-5"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-6" x="-9" y="800" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-6" x="-9" y="774" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-6"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-7" x="-9" y="882" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-7" x="-9" y="856" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-7"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-7"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-8" x="-9" y="978" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-8" x="-9" y="939" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-8"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-8"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-9" x="-9" y="1060" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-9" x="-9" y="1021" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-9"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-9"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-10" x="-9" y="1156" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-10" x="-9" y="1104" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-10"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-10"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-11" x="-9" y="1238" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-11" x="-9" y="1186" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-11"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-11"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-12" x="-9" y="1334" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-12" x="-9" y="1269" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-12"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-12"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-13" x="-9" y="1416" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-13" x="-9" y="1351" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-13"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-13"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-14" x="-9" y="1512" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-14" x="-9" y="1434" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-14"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-14"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-15" x="-9" y="1594" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-15" x="-9" y="1516" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-15"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-15"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-16" x="-9" y="1690" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-16" x="-9" y="1599" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-16"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-16"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-17" x="-9" y="1772" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-17" x="-9" y="1681" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-17"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-17"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-18" x="-9" y="1868" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-18" x="-9" y="1764" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-18"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-18"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-19" x="-9" y="1950" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-19" x="-9" y="1846" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-19"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-19"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-20" x="-9" y="2046" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-20" x="-9" y="1929" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-20"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-20"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Path_39-21" x="-9" y="2128" width="393" height="68" filterUnits="userSpaceOnUse">
+    <filter id="Path_39-21" x="-9" y="2011" width="393" height="68" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-21"/>
       <feFlood flood-opacity="0.161"/>
@@ -238,10 +238,7 @@
         <g id="Group_41" data-name="Group 41" transform="translate(0)">
           <g id="Group_42" data-name="Group 42">
             <g transform="matrix(1, 0, 0, 1, 0, -376)" filter="url(#Path_39)">
-              <g id="Path_39-22" data-name="Path 39" transform="translate(0 376)" fill="#fff">
-                <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-              </g>
+              <path id="Path_39-22" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 376)" fill="#fff"/>
             </g>
             <text id="Part_Name" data-name="Part Name" transform="translate(9.765 10.639)" fill="#444" font-size="18" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="18">Part Name</tspan></text>
             <g id="Group_37" data-name="Group 37" transform="translate(132.109 12.224)">
@@ -266,10 +263,7 @@
               <g id="Group_41-2" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-2" data-name="Group 42">
                   <g transform="matrix(1, 0, 0, 1, 0, -450)" filter="url(#Path_39-2)">
-                    <g id="Path_39-23" data-name="Path 39" transform="translate(0 450)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                    <path id="Path_39-23" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 450)" fill="#fff"/>
                   </g>
                   <text id="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-2" data-name="Group 37" transform="translate(139 14.345)">
@@ -302,10 +296,7 @@
               <g id="Group_41-3" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-3" data-name="Group 42">
                   <g transform="matrix(1, 0, 0, 1, 0, -532)" filter="url(#Path_39-3)">
-                    <g id="Path_39-24" data-name="Path 39" transform="translate(0 532)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                    <path id="Path_39-24" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 532)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-3" data-name="Group 37" transform="translate(139 14.345)">
@@ -333,17 +324,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 -266)">
+      <g transform="translate(9 -279)">
         <g id="Group_4004-2" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-4" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-4" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-4" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-4" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -628)" filter="url(#Path_39-4)">
-                    <g id="Path_39-25" data-name="Path 39" transform="translate(0 628)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -615)" filter="url(#Path_39-4)">
+                    <path id="Path_39-25" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 615)" fill="#fff"/>
                   </g>
                   <text id="Gear-2" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-4" data-name="Group 37" transform="translate(139 14.345)">
@@ -375,11 +363,8 @@
             <g id="Post_Thumbnails-5" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-5" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-5" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -710)" filter="url(#Path_39-5)">
-                    <g id="Path_39-26" data-name="Path 39" transform="translate(0 710)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -697)" filter="url(#Path_39-5)">
+                    <path id="Path_39-26" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 697)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-2" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-5" data-name="Group 37" transform="translate(139 14.345)">
@@ -407,17 +392,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 -88)">
+      <g transform="translate(9 -114)">
         <g id="Group_4004-3" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-6" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-6" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-6" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-6" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -806)" filter="url(#Path_39-6)">
-                    <g id="Path_39-27" data-name="Path 39" transform="translate(0 806)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -780)" filter="url(#Path_39-6)">
+                    <path id="Path_39-27" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 780)" fill="#fff"/>
                   </g>
                   <text id="Gear-3" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-6" data-name="Group 37" transform="translate(139 14.345)">
@@ -449,11 +431,8 @@
             <g id="Post_Thumbnails-7" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-7" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-7" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -888)" filter="url(#Path_39-7)">
-                    <g id="Path_39-28" data-name="Path 39" transform="translate(0 888)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -862)" filter="url(#Path_39-7)">
+                    <path id="Path_39-28" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 862)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-3" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-7" data-name="Group 37" transform="translate(139 14.345)">
@@ -481,17 +460,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 90)">
+      <g transform="translate(9 51)">
         <g id="Group_4004-4" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-8" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-8" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-8" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-8" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -984)" filter="url(#Path_39-8)">
-                    <g id="Path_39-29" data-name="Path 39" transform="translate(0 984)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -945)" filter="url(#Path_39-8)">
+                    <path id="Path_39-29" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 945)" fill="#fff"/>
                   </g>
                   <text id="Gear-4" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-8" data-name="Group 37" transform="translate(139 14.345)">
@@ -523,11 +499,8 @@
             <g id="Post_Thumbnails-9" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-9" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-9" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1066)" filter="url(#Path_39-9)">
-                    <g id="Path_39-30" data-name="Path 39" transform="translate(0 1066)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1027)" filter="url(#Path_39-9)">
+                    <path id="Path_39-30" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1027)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-4" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-9" data-name="Group 37" transform="translate(139 14.345)">
@@ -555,17 +528,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 268)">
+      <g transform="translate(9 216)">
         <g id="Group_4004-5" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-10" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-10" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-10" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-10" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1162)" filter="url(#Path_39-10)">
-                    <g id="Path_39-31" data-name="Path 39" transform="translate(0 1162)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1110)" filter="url(#Path_39-10)">
+                    <path id="Path_39-31" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1110)" fill="#fff"/>
                   </g>
                   <text id="Gear-5" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-10" data-name="Group 37" transform="translate(139 14.345)">
@@ -597,11 +567,8 @@
             <g id="Post_Thumbnails-11" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-11" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-11" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1244)" filter="url(#Path_39-11)">
-                    <g id="Path_39-32" data-name="Path 39" transform="translate(0 1244)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1192)" filter="url(#Path_39-11)">
+                    <path id="Path_39-32" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1192)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-5" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-11" data-name="Group 37" transform="translate(139 14.345)">
@@ -629,17 +596,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 446)">
+      <g transform="translate(9 381)">
         <g id="Group_4004-6" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-12" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-12" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-12" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-12" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1340)" filter="url(#Path_39-12)">
-                    <g id="Path_39-33" data-name="Path 39" transform="translate(0 1340)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1275)" filter="url(#Path_39-12)">
+                    <path id="Path_39-33" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1275)" fill="#fff"/>
                   </g>
                   <text id="Gear-6" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-12" data-name="Group 37" transform="translate(139 14.345)">
@@ -671,11 +635,8 @@
             <g id="Post_Thumbnails-13" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-13" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-13" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1422)" filter="url(#Path_39-13)">
-                    <g id="Path_39-34" data-name="Path 39" transform="translate(0 1422)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1357)" filter="url(#Path_39-13)">
+                    <path id="Path_39-34" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1357)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-6" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-13" data-name="Group 37" transform="translate(139 14.345)">
@@ -703,17 +664,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 624)">
+      <g transform="translate(9 546)">
         <g id="Group_4004-7" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-14" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-14" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-14" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-14" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1518)" filter="url(#Path_39-14)">
-                    <g id="Path_39-35" data-name="Path 39" transform="translate(0 1518)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1440)" filter="url(#Path_39-14)">
+                    <path id="Path_39-35" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1440)" fill="#fff"/>
                   </g>
                   <text id="Gear-7" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-14" data-name="Group 37" transform="translate(139 14.345)">
@@ -745,11 +703,8 @@
             <g id="Post_Thumbnails-15" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-15" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-15" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1600)" filter="url(#Path_39-15)">
-                    <g id="Path_39-36" data-name="Path 39" transform="translate(0 1600)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1522)" filter="url(#Path_39-15)">
+                    <path id="Path_39-36" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1522)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-7" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-15" data-name="Group 37" transform="translate(139 14.345)">
@@ -777,17 +732,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 802)">
+      <g transform="translate(9 711)">
         <g id="Group_4004-8" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-16" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-16" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-16" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-16" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1696)" filter="url(#Path_39-16)">
-                    <g id="Path_39-37" data-name="Path 39" transform="translate(0 1696)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1605)" filter="url(#Path_39-16)">
+                    <path id="Path_39-37" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1605)" fill="#fff"/>
                   </g>
                   <text id="Gear-8" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-16" data-name="Group 37" transform="translate(139 14.345)">
@@ -819,11 +771,8 @@
             <g id="Post_Thumbnails-17" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-17" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-17" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1778)" filter="url(#Path_39-17)">
-                    <g id="Path_39-38" data-name="Path 39" transform="translate(0 1778)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1687)" filter="url(#Path_39-17)">
+                    <path id="Path_39-38" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1687)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-8" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-17" data-name="Group 37" transform="translate(139 14.345)">
@@ -851,17 +800,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 980)">
+      <g transform="translate(9 876)">
         <g id="Group_4004-9" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-18" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-18" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-18" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-18" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1874)" filter="url(#Path_39-18)">
-                    <g id="Path_39-39" data-name="Path 39" transform="translate(0 1874)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1770)" filter="url(#Path_39-18)">
+                    <path id="Path_39-39" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1770)" fill="#fff"/>
                   </g>
                   <text id="Gear-9" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-18" data-name="Group 37" transform="translate(139 14.345)">
@@ -893,11 +839,8 @@
             <g id="Post_Thumbnails-19" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-19" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-19" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -1956)" filter="url(#Path_39-19)">
-                    <g id="Path_39-40" data-name="Path 39" transform="translate(0 1956)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1852)" filter="url(#Path_39-19)">
+                    <path id="Path_39-40" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1852)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-9" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-19" data-name="Group 37" transform="translate(139 14.345)">
@@ -925,17 +868,14 @@
           </g>
         </g>
       </g>
-      <g transform="translate(9 1158)">
+      <g transform="translate(9 1041)">
         <g id="Group_4004-10" data-name="Group 4004" transform="translate(0 10)">
           <g id="Two_Column_Card-20" data-name="Two Column Card" transform="translate(-849 -143)">
             <g id="Post_Thumbnails-20" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-20" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-20" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -2052)" filter="url(#Path_39-20)">
-                    <g id="Path_39-41" data-name="Path 39" transform="translate(0 2052)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -1935)" filter="url(#Path_39-20)">
+                    <path id="Path_39-41" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 1935)" fill="#fff"/>
                   </g>
                   <text id="Gear-10" data-name="Gear" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Gear</tspan></text>
                   <g id="Group_37-20" data-name="Group 37" transform="translate(139 14.345)">
@@ -967,11 +907,8 @@
             <g id="Post_Thumbnails-21" data-name="Post Thumbnails" transform="translate(493 577)">
               <g id="Group_41-21" data-name="Group 41" transform="translate(356 6)">
                 <g id="Group_42-21" data-name="Group 42">
-                  <g transform="matrix(1, 0, 0, 1, 0, -2134)" filter="url(#Path_39-21)">
-                    <g id="Path_39-42" data-name="Path 39" transform="translate(0 2134)" fill="#fff">
-                      <path d="M 374.5 49.5 L 0.5 49.5 L 0.5 0.5 L 374.5 0.5 L 374.5 49.5 Z" stroke="none"/>
-                      <path d="M 1 1 L 1 49 L 374 49 L 374 1 L 1 1 M 0 0 L 375 0 L 375 50 L 0 50 L 0 0 Z" stroke="none" fill="#ddd"/>
-                    </g>
+                  <g transform="matrix(1, 0, 0, 1, 0, -2017)" filter="url(#Path_39-21)">
+                    <path id="Path_39-42" data-name="Path 39" d="M0,0H375V50H0Z" transform="translate(0 2017)" fill="#fff"/>
                   </g>
                   <text id="Crank_shaft-10" data-name="Crank shaft" transform="translate(8 13.639)" fill="#444" font-size="18" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="17">Crank shaft</tspan></text>
                   <g id="Group_37-21" data-name="Group 37" transform="translate(139 14.345)">
